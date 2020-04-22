@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "How to get experience?",
+      "content": "The only source of knowledge is experience.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 2,
+      "title": "New frontiers",
+      "content": "That's one small step for a man, one giant leap for mankind.",
+      "author": "Neil Armstrong"
+    },
+    {
+      "id": 3,
+      "title": "About life",
+      "content": "Life's not about how hard of a hit you can give... it's about how many you can take, and still keep moving forward.",
+      "author": "Rock Balboa"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
